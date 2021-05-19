@@ -2,6 +2,7 @@
 
 - Class Date: May 18 - 19, 2021
 - Facilitator: @rwnfoo
+- Welcome!! 
 
 ## Talk to Us!!
 
